@@ -1,4 +1,0 @@
-# typoweb
-
-====================
-Introduction to pages
