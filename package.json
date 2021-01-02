@@ -1,0 +1,27 @@
+{
+  "name": "berre",
+  "version": "1.0.0",
+  "description": "berre webiste",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiesiger/typoweb.git"
+  },
+  "keywords": [
+    "Rene",
+    "Berger"
+  ],
+  "author": "Rene Berger",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/hiesiger/typoweb/issues"
+  },
+  "homepage": "https://github.com/hiesiger/typoweb#readme"
+}
