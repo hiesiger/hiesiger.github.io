@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
     width: 100%;
     height: 100%;
 }
@@ -14,6 +15,12 @@ main {
     flex-grow: 1;
 }
 
-header, main, footer {
+header,
+main,
+footer {
     flex-shrink: 0;
+}
+
+.container-fluid {
+    width: 100%;
 }
