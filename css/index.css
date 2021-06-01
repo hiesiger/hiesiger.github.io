@@ -14,7 +14,7 @@ body {
     margin: 0;
 }
 
-.bg {
+.container-fluid {
     /* The image used */
     background-image: url(bilder/berries_1000x700-790x310.webp);
 
@@ -29,24 +29,8 @@ body {
 
 
 
-main {
-    flex-grow: 1;
-}
-
 header,
 main,
 footer {
     flex-shrink: 0;
-}
-
-
-
-.container-fluid {
-    width: 100%;
-    background: url('/bilder/berries-bg.webp') no-repeat center center fixed;
-}
-
-.container {
-    background: url('/bilder/berries-bg.webp') no-repeat center center fixed;
-
 }
